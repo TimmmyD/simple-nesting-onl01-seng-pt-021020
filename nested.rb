@@ -38,6 +38,7 @@ def alan_kay_is_known_for
         }
      }
   temp = programmer_hash[:alan_kay]
+  temp[:known_for]
   
 end
 
